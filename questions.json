@@ -136,5 +136,88 @@
         "question": "What is the process by which plants make their own food?",
         "options": ["Photosynthesis", "Respiration", "Transpiration", "Germination"],
         "answer": "Photosynthesis"
+    },
+    {
+        "category": "Zoology",
+        "question": "What is the largest species of shark?",
+        "options": ["Whale Shark", "Great White Shark", "Hammerhead Shark", "Tiger Shark"],
+        "answer": "Whale Shark"
+    },
+    {
+        "category": "Meteorology",
+        "question": "What is the study of weather called?",
+        "options": ["Meteorology", "Climatology", "Geology", "Oceanography"],
+        "answer": "Meteorology"
+    },
+    {
+        "category": "Oceanography",
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "category": "Anthropology",
+        "question": "What is the study of human societies and cultures called?",
+        "options": ["Anthropology", "Sociology", "Psychology", "History"],
+        "answer": "Anthropology"
+    },
+    {
+        "category": "Linguistics",
+        "question": "What is the study of language called?",
+        "options": ["Linguistics", "Philology", "Semiotics", "Sociolinguistics"],
+        "answer": "Linguistics"
+    },
+    {
+        "category": "Sociology",
+        "question": "What is the study of social behavior and society called?",
+        "options": ["Sociology", "Psychology", "Anthropology", "Philosophy"],
+        "answer": "Sociology"
+    },
+    {
+        "category": "Archaeology",
+        "question": "What is the study of human history through excavation called?",
+        "options": ["Archaeology", "Anthropology", "History", "Paleontology"],
+        "answer": "Archaeology"
+    },
+    {
+        "category": "Mythology",
+        "question": "Who is the Greek god of the sea?",
+        "options": ["Poseidon", "Zeus", "Hades", "Apollo"],
+        "answer": "Poseidon"
+    },
+    {
+        "category": "Religion",
+        "question": "What is the holy book of Islam?",
+        "options": ["Quran", "Bible", "Torah", "Vedas"],
+        "answer": "Quran"
+    },
+    {
+        "category": "Economics",
+        "question": "What is the law of supply and demand?",
+        "options": ["Price increases when demand exceeds supply", "Price decreases when demand exceeds supply", "Price remains constant regardless of supply and demand", "None of the above"],
+        "answer": "Price increases when demand exceeds supply"
+    },
+    {
+        "category": "Psychology",
+        "question": "What is the term for a fear of spiders?",
+        "options": ["Arachnophobia", "Claustrophobia", "Agoraphobia", "Acrophobia"],
+        "answer": "Arachnophobia"
+    },
+    {
+        "category": "Physics",
+        "question": "What is Newton's second law of motion?",
+        "options": ["F=ma", "E=mc^2", "v=d/t", "a=v/t"],
+        "answer": "F=ma"
+    },
+    {
+        "category": "Chemistry",
+        "question": "What is the most abundant gas in the Earth's atmosphere?",
+        "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+        "answer": "Nitrogen"
+    },
+    {
+        "category": "Biology",
+        "question": "What is the basic unit of life?",
+        "options": ["Cell", "Tissue", "Organ", "Organism"]
     }
 ]
